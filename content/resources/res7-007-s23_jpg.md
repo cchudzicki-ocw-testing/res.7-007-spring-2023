@@ -7,9 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
-  image-alt: Illustration of the cell membrane and the process of cell transport,
-    in which tiny pieces of cell membrane pinch off into vesicles that carry materials
-    between the inside and outside of the cell.
+  image-alt: Illustration of the cell membrane and the transport of materials between
+    the inside and outside of the cell.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Image
