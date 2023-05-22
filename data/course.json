@@ -6,9 +6,22 @@
   ],
   "topics": [
     [
+      "Health and Medicine",
+      "Cancer"
+    ],
+    [
+      "Health and Medicine",
+      "Cellular and Molecular Medicine"
+    ],
+    [
       "Science",
       "Biology",
       "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
     ]
   ],
   "legacy_uid": "",
@@ -22,7 +35,7 @@
     "website": "ocw-www"
   },
   "course_image": {
-    "content": "",
+    "content": "8315b7f2-482d-4459-b79a-6b514026048e",
     "website": "706x-cell-biology"
   },
   "course_title": "7.06x Cell Biology",
@@ -34,7 +47,7 @@
   "extra_course_numbers": "",
   "primary_course_number": "RES.7-007",
   "course_image_thumbnail": {
-    "content": "",
+    "content": "7b026742-de50-44b6-b0e6-67c0d9cc967a",
     "website": "706x-cell-biology"
   },
   "learning_resource_types": [
