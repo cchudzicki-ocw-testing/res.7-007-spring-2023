@@ -5,7 +5,9 @@ draft: false
 file: /courses/706x-cell-biology/res7-007-s23.jpg
 file_type: image/jpeg
 image_metadata:
-  caption: ''
+  caption: How do we know what we know about cells at a molecular level and how can
+    we use that knowledge to design experiments to test hypotheses in cell biology?
+    (Image by Dr. Darcy Gordon.)
   credit: ''
   image-alt: Illustration of the cell membrane and the transport of materials between
     the inside and outside of the cell.
